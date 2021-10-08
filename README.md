@@ -3,17 +3,17 @@ I used SpaCy and TextBlob to find entities , descriptions and sentiment_scores r
 
 Steps I followed :
 
-Read .json file into dataframe
+a) Read .json file into dataframe
       
-Data cleaning
+b) Data cleaning
       
-Find entities (aspect) using SpaCy
+c) Find entities (aspect) using SpaCy
       
-Find description (adverb + adjective) using SpaCy 
+d) Find description (adverb + adjective) using SpaCy 
 	
-Find most frequent entities
+e) Find most frequent entities
 	
-Find the sentiment score of description using TextBlob
+f) Find the sentiment score of description using TextBlob
 
-Label the sentiment score
+g) Label the sentiment score
 
